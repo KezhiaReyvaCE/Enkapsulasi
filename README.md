@@ -15,3 +15,5 @@ Output:
 Latihan 3
 ![Output](https://user-images.githubusercontent.com/85090045/120138087-f4093f00-c1ff-11eb-864e-67490d030ece.png)
 
+Latihan 4
+![Output](https://user-images.githubusercontent.com/85090045/120138441-b35df580-c200-11eb-84ce-b7a386def54e.png)
