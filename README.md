@@ -21,3 +21,6 @@ Penjelasan: Pada hasil run pertama muncul password salah dikarenakan memasukkan 
 
 Tugas Praktikum 1
 ![Output](https://user-images.githubusercontent.com/85090045/120138819-77776000-c201-11eb-88d9-c666d684b716.png)
+
+Tugas Praktikum 2
+![Output](https://user-images.githubusercontent.com/85090045/120139114-fc627980-c201-11eb-999b-d6d90d7548f3.png)
