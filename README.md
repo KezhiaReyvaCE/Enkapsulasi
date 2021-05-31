@@ -17,3 +17,4 @@ Latihan 3
 
 Latihan 4
 ![Output](https://user-images.githubusercontent.com/85090045/120138441-b35df580-c200-11eb-84ce-b7a386def54e.png)
+Penjelasan: Pada hasil run pertama muncul password salah dikarenakan memasukkan password tidak sesuai pada getpenumpang(). Kemudian penumpang maximum adalah 5, apabila penambahan penumpang melebihi 5 maka akan muncul penumpang melebihi kuota.
