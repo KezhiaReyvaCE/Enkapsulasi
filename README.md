@@ -13,4 +13,5 @@ Output:
 ![Latihan 1 - NetBeans IDE 8 2 05_04_2021 23_33_48](https://user-images.githubusercontent.com/85090045/120137546-c96ab680-c1fe-11eb-87e8-41f2a2126bc2.png)
 
 Latihan 3
-![Uploading Output.png…]()
+![Output](https://user-images.githubusercontent.com/85090045/120138087-f4093f00-c1ff-11eb-864e-67490d030ece.png)
+
