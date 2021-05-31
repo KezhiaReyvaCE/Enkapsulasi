@@ -11,3 +11,6 @@ Ubah class UjiBus.java:
 ![Latihan 1 - NetBeans IDE 8 2 05_04_2021 23_33_40](https://user-images.githubusercontent.com/85090045/120137527-bb1c9a80-c1fe-11eb-814b-5efcd68e7371.png)
 Output:
 ![Latihan 1 - NetBeans IDE 8 2 05_04_2021 23_33_48](https://user-images.githubusercontent.com/85090045/120137546-c96ab680-c1fe-11eb-87e8-41f2a2126bc2.png)
+
+Latihan 3
+![Uploading Output.png…]()
